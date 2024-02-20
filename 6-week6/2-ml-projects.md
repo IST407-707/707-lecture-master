@@ -23,7 +23,7 @@ Each of these items are elaborated below.
 
 __The Power / Interest Grid__
 
-![alt text](image.png)
+![alt text](assets/image.png)
 
 The power / interest matrix (also referred to as Mendelow's matrix [^1]) groups stakeholders along the dimensions of interest and influence.  This is a useful starting point for thinking about stakeholders. The different groups are:
 
@@ -39,7 +39,7 @@ One of the drawbacks of the power / interest matrix is that attention to power m
 
 __The Salience Model__
 
-![alt text](image-1.png)
+![alt text](assets/image-1.png)
 
 The Theory of Stakeholder Identification and Salience [^2]Introduces address the above issues with the concept of salience. Salience is a function of three attributes: power, legitimacy, and urgency. This framework is particularly useful for understanding not just who the stakeholders are but also why their claims might be considered important.  The following offers more detail on each aspect of this framework.
 
@@ -69,7 +69,7 @@ In it's original formulation, the authors of this framework defined seven types 
 
 __Personas__
 
-![alt text](image-2.png)
+![alt text](assets/image-2.png)
 
 Ultimately, stakeholders provide you with a set of needs that you will use to guide the development of your project. One powerful tool (used widely in UX and Interaction Design) is through the development of _personas_.  Personas are fictional characters created based on research to represent the different user types that might use a service, product, site, or brand in a similar way. Developing personas usually involves gathering data from user research and then synthesizing it into character profiles that represent key segments of your audience. 
 
