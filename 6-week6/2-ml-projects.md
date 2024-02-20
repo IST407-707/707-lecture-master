@@ -13,7 +13,7 @@ There are four critical elements to consider when building an ML project:
 1. [Stakeholder analysis](#stakeholder-analysis) - who cares?
 2. [Objective specification](#objective-specification) - what are you trying to do for your stakeholders?
 3. [Data identification](#data-identification) - where are you going to get your data, and is it any good?
-4. [Modelling methods](#modelling-methods) - what kind of approach will you use to achieve you objectives?
+4. [Modelling methods](#modelling-methods) - what kind of approach will you use to achieve your objectives?
 
 Each of these items are elaborated below.
 
@@ -25,7 +25,7 @@ __The Power / Interest Grid__
 
 ![alt text](image.png)
 
-The power / interest matrix (also referred to as Mendelow's matrix [^1]) groups stakeholders along the dimensions of interest and influence.  This is a useful starting point for thinking about stakeholders. The different groups are:
+The power / interest matrix (also referred to as Mendelow's matrix[^1]) groups stakeholders along the dimensions of interest and influence.  This is a useful starting point for thinking about stakeholders. The different groups are:
 
 * **High Interest / High Power** These stakeholders are key players that could consist of upper management, directors, or major investors. You should monitor this group closely and ensure they’re fully engaged. They’re very involved with decision making and have the power to stop or pause a project they’re not happy with. 
 
@@ -41,7 +41,7 @@ __The Salience Model__
 
 ![alt text](image-1.png)
 
-The Theory of Stakeholder Identification and Salience [^2]Introduces address the above issues with the concept of salience. Salience is a function of three attributes: power, legitimacy, and urgency. This framework is particularly useful for understanding not just who the stakeholders are but also why their claims might be considered important.  The following offers more detail on each aspect of this framework.
+The Theory of Stakeholder Identification and Salience[^2] addresses the above issues with the concept of _salience_. Salience is a function of three attributes: power, legitimacy, and urgency. This framework is particularly useful for understanding not just who the stakeholders are but also why their claims might be considered important.  The following offers more detail on each aspect of this framework.
 
 * **Power** Power refers to the ability of a stakeholder to impose their will or influence the project's outcomes. In the context of ML, power can manifest in various ways, such as through control over crucial resources (e.g., data, funding, computational resources), regulatory authority, or influence over public opinion. 
 
@@ -218,6 +218,6 @@ As general guidance:
 4. **Avoid Over-reliance on Absolutes**: Be wary of responses that use absolutes (e.g., "always", "never") or strong emphatic language (e.g., "crucial", "invaluable") without clear justification. Such language can signal a lack of depth or uncritical acceptance of broad claims.
 
 
-[^1] Mendelow A. (1991). Proceedings of the Second International Conference on Information Systems. Cambridge, MA.
+[^1]: Mendelow A. (1991). Proceedings of the Second International Conference on Information Systems. Cambridge, MA.
 
-[^2] Mitchell, R. K., Agle, B. R., & Wood, D. J. (1997). Toward a theory of stakeholder identification and salience: Defining the principle of who and what really counts. The Academy of Management Review, 22(4), 853–886
+[^2]: Mitchell, R. K., Agle, B. R., & Wood, D. J. (1997). Toward a theory of stakeholder identification and salience: Defining the principle of who and what really counts. The Academy of Management Review, 22(4), 853–886
