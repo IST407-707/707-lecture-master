@@ -13,7 +13,7 @@ There are four critical elements to consider when building an ML project:
 1. [Stakeholder analysis](#stakeholder-analysis) - who cares?
 2. [Objective specification](#objective-specification) - what are you trying to do for your stakeholders?
 3. [Data identification](#data-identification) - where are you going to get your data, and is it any good?
-4. [Modelling methods](#modelling-methods) - what kind of approach will you use to achieve your objectives?
+4. [Modeling methods](#modeling-methods) - what kind of approach will you use to achieve your objectives?
 
 Each of these items are elaborated below.
 
@@ -151,11 +151,11 @@ An ML project cannot proceed without access to a sufficient amount of appropriat
 
 - **Transparency and Documentation**: The availability of detailed documentation describing the data collection methods, data processing steps, and any assumptions or limitations is essential for assessing the data's suitability for your project.
 
-### Modelling Methods
+### modeling Methods
 
-While libraries like SciKit Learn provide many different models and tools for assembling them, evaluating their performance, and tuning parameter, the modelling approach taken for any given project involves a variety of high level decisions that inform the use of these tools. Rarely is it a simple question of SVM vs. Random Forest vs. Deep Learner. The modelling method is your overall approach, including many different sub-problems that you should strive to anticipate.
+While libraries like SciKit Learn provide many different models and tools for assembling them, evaluating their performance, and tuning parameter, the modeling approach taken for any given project involves a variety of high level decisions that inform the use of these tools. Rarely is it a simple question of SVM vs. Random Forest vs. Deep Learner. The modeling method is your overall approach, including many different sub-problems that you should strive to anticipate.
 
-The process of developing a modelling method is similar to the ML process you are familiar with already, but each of the steps taken are typically more involved than what you encounter with toy problems.
+The process of developing a modeling method is similar to the ML process you are familiar with already, but each of the steps taken are typically more involved than what you encounter with toy problems.
 
 * **Data Quality and Preparation** In many cases data preparation will include a bit of sleuthing to figure out what the data is about, and enrichment by combining multiple datasets.  After this, you might need to perform multiple transformations - pivoting categorical columns to create new features, discretizing continuous ranges, turning unstructured data into structured data, dimensionality reduction, clustering, and feature creation.
 
