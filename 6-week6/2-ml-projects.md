@@ -51,7 +51,7 @@ The Theory of Stakeholder Identification and Salience[^2] addresses the above is
 
 * **Stakeholder Salience** Mitchell, Agle, and Wood propose that the presence of one, two, or all three of these attributes increases the salience of a stakeholder to the project managers, meaning the degree to which managers give priority to competing stakeholder claims. 
 
-In it's original formulation, the authors of this framework defined seven types of stakeholders based on the combination of these attributes:
+In its original formulation, the authors of this framework defined seven types of stakeholders based on the combination of these attributes:
 
 * **Dormant Stakeholders** Have power but lack legitimacy and urgency. They have the potential to influence but currently do not have a pressing claim or recognized legitimacy.
 
