@@ -151,7 +151,7 @@ An ML project cannot proceed without access to a sufficient amount of appropriat
 
 - **Transparency and Documentation**: The availability of detailed documentation describing the data collection methods, data processing steps, and any assumptions or limitations is essential for assessing the data's suitability for your project.
 
-### modeling Methods
+### Modeling Methods
 
 While libraries like SciKit Learn provide many different models and tools for assembling them, evaluating their performance, and tuning parameter, the modeling approach taken for any given project involves a variety of high level decisions that inform the use of these tools. Rarely is it a simple question of SVM vs. Random Forest vs. Deep Learner. The modeling method is your overall approach, including many different sub-problems that you should strive to anticipate.
 
